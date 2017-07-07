@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo -s mc-server bash "/vagrant/server/ServerStart.sh"

@@ -1,0 +1,10 @@
+# General Tools
+git
+tmux
+vim
+pv
+make
+
+# Python stuff
+python-pip
+python-virtualenv
