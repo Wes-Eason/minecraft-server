@@ -32,7 +32,7 @@ mkdir -p /usr/local/java
 # Configure mc server
 echo "eula=true" > /vagrant/server/eula.txt
 
-install -o root -g mc-server -m 0754 /vagrant/setup/mc-server /bin/mc-server
+install -o root -g root -m 0754 /vagrant/setup/mc-server /bin/mc-server
 chmod u+t /bin/mc-server
 
 # # import my dotfiles from github
